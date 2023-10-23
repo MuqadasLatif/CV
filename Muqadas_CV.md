@@ -46,7 +46,7 @@ React Native \| SQL \| Python \| Excel \| C++
 -   Urdu 
 -   English 
 -   Hindi
-
+-   Punjabi
 
 ```python
 
