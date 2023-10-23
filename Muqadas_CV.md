@@ -18,7 +18,7 @@
 
 ## SKILLS
 
-React Native \| SQL \| Python \| Excel \| Html \| CSS \| JavaScript \| C++
+React Native \| SQL \| Python \| Excel \| C++
 
 ------------------------------------------------------------------------
 
