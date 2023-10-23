@@ -33,7 +33,7 @@ React Native \| SQL \| Python \| Excel \| C++
 
 ### E-Commerce Website
 -   An E-Commerce website using
-    Html, CSS, Javascript, Visual Studio Code (VSCode), and SQL.
+    Html, CSS, Javascript, Visual Studio, and SQL.
 
 ### React Native Apps
 
